@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yaoyuan Hu (胡耀原), an final year undergraduate student Computer Science student at The Chinese University of Hong Kong (CUHK). Now I am doing my final year project supervised by [Prof. Songtao Lu](https://songtaogithub.github.io/).
+I am Yaoyuan Hu (胡耀原), a final year undergraduate student in the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK). Now I am doing my final year project supervised by [Prof. Songtao Lu](https://songtaogithub.github.io/).
 
 My academic and research interests include formal mathematics reasoning, AI4Math.
 
