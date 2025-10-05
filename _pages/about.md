@@ -22,8 +22,7 @@ My academic and research interests include formal mathematics reasoning, AI4Math
 ## Awards & Leadership
 
 *   **Wong Lee Sau Ying Memorial Scholarship** (2023/2024): Awarded for outstanding academic performance and significant contribution to the college community.
-*   **Engineering Leadership, Innovation, Technology and Entrepreneurship (ELITE) Stream:** Selected as a member for this prestigious program, undertaking additional challenging coursework and extracurricular activities.
-
+*   **Engineering Leadership, Innovation, Technology and Entrepreneurship (ELITE) Stream:** 
 ---
 
-**Let's connect!** Feel free to reach out to me via email at [1155173899@link.cuhk.edu.hk](mailto:1155173899@link.cuhk.edu.hk) or find me on [LinkedIn](https://www.linkedin.com/in/yaoyuan-hu-2a2126297).
+**Let's connect!**  Feel free to reach out to me via email at [1155173899@link.cuhk.edu.hk](mailto:1155173899@link.cuhk.edu.hk).
