@@ -23,7 +23,7 @@ repository               : "yaoyuan-hyy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yaoyuan Hu"
   pronouns         : # example: "she/her"  
   bio              : "A Final Year Undergraduate Student at CUHK"
